@@ -1,0 +1,122 @@
+[
+  {
+    "name": "ak_bmsc",
+    "value": "E5B94DCB9127C1DA9122B400D448E597~000000000000000000000000000000~YAAQBE8kFwe9YwqcAQAAHc75GR7eMvAnNpTgV757ti/BbFtX0HAaY5/9PFmyzXYql6PvCk7ZJzGJq/uLqwtVfjEDtOb2XBXoKsO9nkYnVONQJQugmMCo9YbcDkr/p7Z1Y9zbAtTjt0eqHFXOuzT5tQcz0MkXyc2jjD/tIkEt7T/euf+27C+ubPhZWDPfM05BEWUBTYRyTsx7sv173k0vZz/drk6H1IMdenWVYdA5mQr+Xaun3VEk84y9Y49MWFiBv4AnrsHK7lGHOEcmkGL0eOsHRW2qmok2imqCaHshraq1/6jmkSrzVNTFUwE942Y4TNixVzMCRBKJYmX9RmEOhNZ2f5FKk8O3giOjTdGOdY+nOV22lt1hZG45ABjVUP1OU0DMNmtzlYUH0wi0EA==",
+    "domain": ".justice.gov",
+    "path": "/",
+    "expires": 1769969527.618343,
+    "httpOnly": true,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "authorization_1",
+    "value": "A5524D2A576416499F535CF52724E012A74DB09D70BD270F767F4F3F081BAE56",
+    "domain": "www.justice.gov",
+    "path": "/",
+    "expires": 1769962431,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "authorization_2",
+    "value": "C1BA2008E08BEC056E01994E38901D51C27956487AD065F6E12946796C49F137",
+    "domain": "www.justice.gov",
+    "path": "/",
+    "expires": 1769962431,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "nmstat",
+    "value": "77d942d0-0c91-d88b-9343-05da7b6ed686",
+    "domain": ".justice.gov",
+    "path": "/",
+    "expires": 1804522328.159653,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "__Secure-YNID",
+    "value": "15.YT=FLkgQr7ZjL6A-SzUcsE1qLnQsih0IXQtg8D3HE5B-ydxAqbNS3IrYkN1HYdSDkwuwDK3kxBZzRVWx5w0l2oK_2-C7ntJd-c8X6wjjHrT14LWglWEqLThM1VQvtBkDvgAY2u_63LDJwcNVG5avIkvj2kehEQHTRstjR-wCSUqcoYEKzXu_fWQSvliNo75T2AeFNTfcC050pNlzMM6pbGGPgMX9Q3WQIiKGYiZiLlGUIvFzi-5t0-b8W5VoMOoOf5EH-ZtL15oQluCqI3NEOEID4i1tCXdTZ2JWing9xpwH_HcMGCArof4i7aZnkAfdZ01TiY8VwSo8nBBf97F3RVxqw",
+    "domain": ".youtube.com",
+    "path": "/",
+    "expires": 1785514328.443801,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None",
+    "partitionKey": "https://justice.gov",
+    "_crHasCrossSiteAncestor": true
+  },
+  {
+    "name": "YSC",
+    "value": "_TvtSICLbo8",
+    "domain": ".youtube.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None",
+    "partitionKey": "https://justice.gov",
+    "_crHasCrossSiteAncestor": true
+  },
+  {
+    "name": "VISITOR_INFO1_LIVE",
+    "value": "HYod6_FxJ4Y",
+    "domain": ".youtube.com",
+    "path": "/",
+    "expires": 1785514328.443852,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None",
+    "partitionKey": "https://justice.gov",
+    "_crHasCrossSiteAncestor": true
+  },
+  {
+    "name": "VISITOR_PRIVACY_METADATA",
+    "value": "CgJOTxIhEh0SGwsMDg8QERITFBUWFxgZGhscHR4fICEiIyQlJiAt",
+    "domain": ".youtube.com",
+    "path": "/",
+    "expires": 1785514328.443863,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None",
+    "partitionKey": "https://justice.gov",
+    "_crHasCrossSiteAncestor": true
+  },
+  {
+    "name": "__Secure-ROLLOUT_TOKEN",
+    "value": "COr6qLjsi_79ahCgrOS-17iSAxigrOS-17iSAw%3D%3D",
+    "domain": ".youtube.com",
+    "path": "/",
+    "expires": 1785514328.443874,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None",
+    "partitionKey": "https://justice.gov",
+    "_crHasCrossSiteAncestor": true
+  },
+  {
+    "name": "_ga_CSLL4ZEK4L",
+    "value": "GS2.1.s1769962328$o1$g0$t1769962328$j60$l0$h0",
+    "domain": ".justice.gov",
+    "path": "/",
+    "expires": 1804522328.497489,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Strict"
+  },
+  {
+    "name": "_ga",
+    "value": "GA1.1.1267745218.1769962328",
+    "domain": ".justice.gov",
+    "path": "/",
+    "expires": 1804522328.497621,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Strict"
+  }
+]

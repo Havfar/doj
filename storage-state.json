@@ -1,0 +1,25 @@
+{
+  "cookies": [
+    {
+      "name": "authorization_1",
+      "value": "38BE87AE4E6839AE3ACCBEB9E135EC9C20CD4981A1F118F74FBAC1BB93BB5800",
+      "domain": "www.justice.gov",
+      "path": "/",
+      "expires": 1769885604,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "authorization_2",
+      "value": "343B583BF1C9AD117E506FF66928E77E692A65784907478D5B5000000AD4C7E6",
+      "domain": "www.justice.gov",
+      "path": "/",
+      "expires": 1769885604,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": []
+}

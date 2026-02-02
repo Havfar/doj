@@ -1,0 +1,12 @@
+
+========================================
+ABORTED (Ctrl+C)
+========================================
+Duration: 0m 10s
+Pages successfully scraped this run: 0 (0.0/min)
+Links added this run: 0 (0.0/min)
+Last completed page: 2303
+Resume with: START_PAGE = 2304
+Total unique links: 0
+Failed pages: 1799
+========================================
